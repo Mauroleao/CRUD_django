@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignorar a pasta venv
+venv/
